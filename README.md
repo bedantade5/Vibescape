@@ -9,10 +9,10 @@
 5. Efficient and Scalable – Developed using Flask for backend processing and HTML, CSS, and JavaScript for the frontend.
 
 ## Technology Stack
-Backend: Flask (Python)
-Frontend: HTML, CSS, JavaScript
-Database: SQLite (optional for user preferences)
-Dataset: Spotify Songs Dataset (sourced from Kaggle)
+* Backend: Flask (Python)
+* Frontend: HTML, CSS, JavaScript
+* Database: SQLite (optional for user preferences)
+* Dataset: Spotify Songs Dataset (sourced from Kaggle)
 
 ## How It Works
 1. Mood Selection – Users choose a mood, and the system generates a playlist based on predefined mood parameters.
